@@ -1,16 +1,16 @@
-## Hi there 👋
+## hi there! I'm faris 👋<br>
+### about me 😎
+i'm a junior computer science student studying and interning at the university of central florida! (⚔️ go knights! ⚔️) i'm a huge lover of hackathons and am a proud 2x winner. if you're going to any florida hackathons, come find me! i'll be there debugging 🐛😵‍💫🐛🐛
 
-<!--
-**FarisAWheel/FarisAWheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if you're in the orlando area (and are a student) come to **knight hacks**! i'm organizing alongside the rest of the team and am excited to see all the cool projects everyone makes 💻
 
-Here are some ideas to get you started:
+### toolbox 🧰
+- **languages**: python, java, c, c++, golang, php, html/css
+- **frameworks & libraries**: react, node.js, vite, tailwind, next.js, nextauth.js, google gemini, selenium, trpc, prisma, drizzle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### when not programming i enjoy
+- gaming 🕹️
+- piano 🎹
+- reading 📖
+- cooking 🍳
+
