@@ -5,7 +5,7 @@ i'm a junior computer science student studying and interning at the university o
 if you're in the orlando area (and are a student) come to **knight hacks**! i'm organizing alongside the rest of the team and am excited to see all the cool projects everyone makes 💻
 
 ### toolbox 🧰
-- **languages**: python, java, c, c++, golang, php, html/css
+- **languages**: python, rust, typescript, java, c, c++, golang, php, html/css
 - **frameworks & libraries**: react, node.js, vite, tailwind, next.js, nextauth.js, google gemini, selenium, trpc, prisma, drizzle
 
 ### when not programming i enjoy
